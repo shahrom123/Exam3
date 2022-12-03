@@ -171,6 +171,15 @@
     line-height: 30px;
     letter-spacing: 1px;
     color: #5A98D0;
+    cursor: pointer;
+
+}
+.learn:hover{
+   color: red;
+}
+.more:hover{
+   
+    color: rgb(234, 17, 118);
 
 }
 .znak{
@@ -183,6 +192,11 @@
     line-height: 30px;
     letter-spacing: 1px;
     color: #5A98D0;
+    cursor: pointer;
+
+}
+.znak:hover{
+    color: red;
 
 }
 /* finished */
